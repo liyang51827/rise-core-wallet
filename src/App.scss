@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/bootstrap';
+@import 'assets/scss/fonts.scss';
+
+* {
+  font-family: SvnMont;
+}
+
+// override scss
+.navbar-toggler {
+  background-color: #fff;
+}
