@@ -1,6 +1,6 @@
 # rise-core-wallet
 
-> Rise Core Wallet frontend built with React
+> **Rise Core Wallet** frontend built with `React`
 
 ```yml
 Node.js version: 18.12.0
